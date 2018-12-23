@@ -1,5 +1,5 @@
 {
-  "name": "affirmer.js",
+  "name": "affirmer",
   "version": "1.0.0",
   "description": "Utilities for running tests",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "test",
     "testing",
-    "affirmer.js"
+    "affirmer"
   ],
   "author": "Dean Silfen",
   "license": "MIT",
