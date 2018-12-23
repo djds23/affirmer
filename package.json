@@ -1,0 +1,24 @@
+{
+  "name": "affirmer.js",
+  "version": "1.0.0",
+  "description": "Utilities for running tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djds23/affirmer.js.git"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "affirmer.js"
+  ],
+  "author": "Dean Silfen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djds23/affirmer.js/issues"
+  },
+  "homepage": "https://github.com/djds23/affirmer.js#readme"
+}
