@@ -2,7 +2,7 @@
 
 ##### Example
 
-```
+```javascript
 const describe = require("affirmer").describe;
 const it = require("affirmer").it;
 
